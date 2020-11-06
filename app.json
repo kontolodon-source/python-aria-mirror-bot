@@ -31,10 +31,8 @@
       "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
       "value": ""
     }, 
-    "DATABASE_URL": {
-      "description": "database for bot",
-      "value": "postgres://ndvmhvmzzdfewh:6fb3b59aa67976e9c61ff3c0b499528a1cdfb36b672fdcbeffccedd9b784ac36@ec2-52-200-82-50.compute-1.amazonaws.com:5432/d7jc92uqc6agls"
-    },
+    
+
     "OWNER_ID": {
       "description": "The Telegram user ID (not username) of the owner of the bot",
       "value": ""
