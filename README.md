@@ -22,6 +22,13 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 Deploying is pretty much straight forward and is divided into several steps as follows:
 ## Installing requirements
 
+# How to deploy in Heroku
+Hit the deploy to heroku button and follow the further instructions in the screen:
+
+**NB: Usage of Aria2 may leads to the suspension of your heroku account so deploy at your own risk.**
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ydnear/python-aria-mirror-bot)
+
 - Clone this repo:
 ```
 git clone https://github.com/lzzy12/python-aria-mirror-bot mirror-bot/
